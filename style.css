@@ -82,6 +82,10 @@ h1 {
     border-radius: 25px; 
     background-color: aliceblue;
     font-size: 20px;
+    
+}
+.btn:hover {
+    background-color: yellow; 
 }
 
 #start {
